@@ -1,2 +1,3 @@
-# I call on the method, say hello, and givie it Aminah
-say_hello("Aminah")
+def say_hello(name= "Ruby Programmer")
+  puts "Hello#{name}!"
+end
